@@ -1,8 +1,6 @@
 <template>
   <div>
-    .............
-    你好
-    好好
+    bbbbbbbbbb
   </div>
 </template>
 
