@@ -35,8 +35,13 @@ export default {
   name: 'HelloWorld',
   props: {
     msg: String
+  },
+  created () {
+    console.log(num)
+    var num = 10
   }
 }
+
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
